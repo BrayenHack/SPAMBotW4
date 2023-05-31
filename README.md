@@ -20,9 +20,9 @@ Instalasi Script
 >
 >pip install requests
 
->git pull
->
 >python main.py
+
+
 
 Gunakan tools ini sebaik mungkin!! 
 
