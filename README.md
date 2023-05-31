@@ -1,16 +1,18 @@
 # SPAMBotW4
 Instalasi Script
-pkg update
-pkg upgrade
-pkg install python
-pkg install python-pip
-pkg install python2
-pkg install git
-git clone https://github.com/BrayenHack/SPAMBotW4
-cd SPAMBotW4
-git pull
-pip install -r requirements. txt
-python main.py
+>pkg update
+>pkg upgrade
+>pkg install python
+>pkg install python-pip
+>pkg install python2
+>pkg install git
+>git clone https://github.com/BrayenHack/SPAMBotW4
+>cd SPAMBotW4
+>ls
+>pip install requests
+>pip install -r requirements. txt
+>git pull
+>python main.py
 
 Gunakan tools ini sebaik mungkin!! 
 Jangan menyalahgunakan tools ini!!
